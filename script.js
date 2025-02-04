@@ -30,5 +30,4 @@ document.querySelector('.right-arrow').addEventListener('click', () => {
     }
 });
 
-// Инициализация
 moveToPage(1);
